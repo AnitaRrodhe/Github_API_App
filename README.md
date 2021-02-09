@@ -8,6 +8,6 @@ Technologies that were used:
 3) OAuth2 Authentication
 4) Pug
 
-To run the App after cloning the RepO>
+To run the App after cloning the Repo:
 1) Install Node Modules: npm i
 2) Start the App: npm run start
